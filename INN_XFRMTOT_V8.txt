@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
              <message:MessageGroup xsi:schemaLocation="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/generic http://www.sdmx.org/docs/2_0/SDMXGenericData.xsd http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message http://www.sdmx.org/docs/2_0/SDMXMessage.xsd" xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/generic" xmlns:common="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:message="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message">
-              <Header xmlns="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/message">
+              <Header   "xmlns:generic="http://www.SDMX.org/resources/SDMXML/schemas/v2_0/generic">
+           
                 <ID>none</ID>
                 <Test>false</Test>
                 <Truncated>false</Truncated>
@@ -12,2115 +13,1693 @@
               </Header>
               <DataSet keyFamilyURI="http://dotstat.oecd.org/RestSDMX/sdmx.ashx/GetKeyFamily/OECD.STI.STP:DSD_INNOSTAT">
               <KeyFamilyRef>COMPASS_KEY</KeyFamilyRef>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="66.157661"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SVN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.966274"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="20.373542"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="DNK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.055215"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CRI"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.899364"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="IND"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="25.209542"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="63.740318"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="58.47867"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="25.501433"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="33.044946"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="21.929796"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="36.292738"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="26.69296"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="27.435435"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CZE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.268312"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.369215"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="NZL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.025629"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="62.955197"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="71.550127"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ISL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="73.814898"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="49.539403"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="35.333779"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="16.899445"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="51.403095"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="NZL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.113164"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.136518"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.836873"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.018837"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.040518"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CAN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="83.255996"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="25.361982"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.280293"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.498966"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="USA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="38.441049"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="BRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="33.625625"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="38.224139"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ZAF"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.143373"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.651353"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="LVA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.503632"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.327432"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="43.440989"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="IRL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="46.266541"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.521568"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LUX"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.708681"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="NLD"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="49.4803"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.488742"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.793672"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.824891"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SVN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.910663"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.518881"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.198366"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="35.870114"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="BGR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="23.790858"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="38.454326"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="HRV"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.56379"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ROU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="8.5118209"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ZAF"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="51.132289"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="W"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="44.387362"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="60.626476"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.905621"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="65.027246"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CAN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="73.228641"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="19.44437"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CZE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="42.720693"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="DNK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.814146"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="50.686706"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.796117"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.129042"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LVA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.135449"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="50.088406"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.280523"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="64.054054"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ISL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.5"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.418066"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.264434"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.192174"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="BGR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="34.436862"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="HRV"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.891656"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="29.328077"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="62.693249"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.447474"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="USA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.664551"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="27.098236"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="60.087517"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="54.683178"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="16.901651"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="23.464395"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.608"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="62.079188"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="62.352154"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.521759"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.189437"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.008138"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.220704"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="60.283962"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="23.464395"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.160416"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="29.924409"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_OSLO_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.670221"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="DNK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.055215"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.576408"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="21.949899"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CZE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="46.80816"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="64.186667"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="IND"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.070922"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="MLT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="41.11588"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="51.495141"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.846967"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="60.329157"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="28.736867"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="54.217547"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="50.496326"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="LUX"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="50.618557"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="NLD"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="49.685858"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="34.889214"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="32.211348"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="LVA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="32.896959"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="33.642676"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="LVA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.970803"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="LTU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.002885"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.449811"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="59.95086"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="71.302664"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="26.131114"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CZE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.920372"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="LUX"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.837463"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="NLD"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.830464"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.501115"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="SVN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.622533"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="31.121806"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="63.129252"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="49.885239"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="36.041067"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.333137"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="BRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="35.719299"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="CHN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.7654"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ZAF"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="69.902492"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ISL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="58"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="68.65655"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="54.807831"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.908038"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LUX"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.847474"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="NLD"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.300287"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="34.595596"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="47.439035"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="34.720212"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SVN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.446686"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="35.095398"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.761771"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="39.790307"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="48.695013"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="BGR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="26.082913"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="42.630399"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="HRV"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="40.56379"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ROU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="8.8193878"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ZAF"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.829907"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="W"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="49.652709"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="LVA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="33.080018"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="68.539612"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.691899"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="70.252899"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CAN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="77.997407"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CHL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="20.767004"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CZE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="44.222839"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="DNK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="56.708443"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.200311"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="FIN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="61.52048"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="FRA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.389085"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ISL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.065217"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="IRL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="51.441399"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="63.424173"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="65.487988"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="58.872626"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="51.146674"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SVK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="36.557805"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SVN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.160504"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ESP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="33.403517"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CHE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.059035"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="TUR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="38.545901"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="GBR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.844426"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="BGR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="36.200257"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="HRV"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="54.947675"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ROU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="10.663333"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="32.693406"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="NZL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="52.863741"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="NOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="69.636096"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="65.241665"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="CYP"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="65.786948"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="PRT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="37.834057"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="BEL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.757492"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="55.671165"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="JPN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="54.695404"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="DNK"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.674034"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="NZL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="53.421115"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="AUS"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="65.290402"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="AUT"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="62.609801"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="DEU"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="68.788304"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="GRC"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="72.558842"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="ISL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="77.426637"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="HUN"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="30.239628"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="63.147858"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="34.192594"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="KOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="32.211348"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2023"/>
-      <Value concept="COUNTRY" value="IRL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.553783"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="SWE"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="57.625094"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2025"/>
-      <Value concept="COUNTRY" value="CRI"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="74.089069"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="ITA"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="63.216566"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="IRL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="45.479266"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="NOR"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="67.614099"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="POL"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="23.651044"/>
-    </Obs>
-  </Series>
-  <Series>
-    <SeriesKey>
-      <Value concept="INDICATOR" value="INN_XFRMTOT"/>
-      <Value concept="TIME" value="2021"/>
-      <Value concept="COUNTRY" value="EST"/>
-    </SeriesKey>
-    <Obs>
-      <ObsValue value="73.114069"/>
-    </Obs>
-  </Series>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="66.157661"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SVN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.966274"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="20.373542"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="DNK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.055215"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CRI"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.899364"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="IND"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="25.209542"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="63.740318"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="58.47867"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="25.501433"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="33.044946"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="21.929796"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="36.292738"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="26.69296"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="27.435435"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CZE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.268312"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.369215"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="NZL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.025629"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="62.955197"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="71.550127"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ISL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="73.814898"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="49.539403"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="35.333779"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="16.899445"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="51.403095"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="NZL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.113164"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.136518"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.836873"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.018837"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.040518"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CAN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="83.255996"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="25.361982"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.280293"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.498966"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="USA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="38.441049"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="BRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="33.625625"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="38.224139"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ZAF"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.143373"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.651353"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="LVA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.503632"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.327432"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="43.440989"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="IRL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="46.266541"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.521568"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LUX"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.708681"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="NLD"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="49.4803"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.488742"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.793672"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.824891"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SVN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.910663"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.518881"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.198366"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="35.870114"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="BGR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="23.790858"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="38.454326"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="HRV"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.56379"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ROU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="8.5118209"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ZAF"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="51.132289"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="W"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="44.387362"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="60.626476"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.905621"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="65.027246"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CAN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="73.228641"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="19.44437"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CZE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="42.720693"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="DNK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.814146"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="50.686706"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.796117"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.129042"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LVA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.135449"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="50.088406"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.280523"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="64.054054"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ISL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.5"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.418066"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.264434"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.192174"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="BGR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="34.436862"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="HRV"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.891656"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="29.328077"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="62.693249"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.447474"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="USA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.664551"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="27.098236"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="60.087517"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="54.683178"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="16.901651"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="23.464395"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.608"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="62.079188"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="62.352154"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.521759"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.189437"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.008138"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.220704"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="60.283962"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="23.464395"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.160416"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="29.924409"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_OSLO_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.670221"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="DNK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.055215"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.576408"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="21.949899"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CZE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="46.80816"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="64.186667"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="IND"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.070922"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="MLT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="41.11588"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="51.495141"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.846967"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="60.329157"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="28.736867"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="54.217547"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="50.496326"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="LUX"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="50.618557"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="NLD"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="49.685858"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="34.889214"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="32.211348"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="LVA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="32.896959"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="33.642676"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="LVA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.970803"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="LTU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.002885"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.449811"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="59.95086"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="71.302664"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="26.131114"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CZE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.920372"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="LUX"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.837463"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="NLD"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.830464"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.501115"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="SVN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.622533"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="31.121806"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="63.129252"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="49.885239"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="36.041067"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.333137"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="BRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="35.719299"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="CHN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.7654"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ZAF"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="69.902492"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ISL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="58"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="68.65655"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="54.807831"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.908038"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LUX"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.847474"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="NLD"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.300287"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="34.595596"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="47.439035"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="34.720212"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SVN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.446686"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="35.095398"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.761771"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="39.790307"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="48.695013"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="BGR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="26.082913"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="42.630399"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="HRV"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="40.56379"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ROU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="8.8193878"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ZAF"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.829907"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="W"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="49.652709"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="LVA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="33.080018"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="68.539612"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.691899"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="70.252899"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CAN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="77.997407"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CHL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="20.767004"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CZE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="44.222839"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="DNK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="56.708443"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.200311"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="FIN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="61.52048"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="FRA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.389085"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ISL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.065217"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="IRL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="51.441399"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="63.424173"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="65.487988"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="58.872626"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="51.146674"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SVK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="36.557805"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SVN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.160504"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ESP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="33.403517"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CHE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.059035"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="TUR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="38.545901"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="GBR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.844426"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="BGR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="36.200257"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="HRV"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="54.947675"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ROU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="10.663333"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="32.693406"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="NZL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="52.863741"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="NOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="69.636096"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="65.241665"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="CYP"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="65.786948"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="PRT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="37.834057"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="BEL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.757492"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="55.671165"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="JPN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="54.695404"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="DNK"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.674034"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="NZL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="53.421115"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="AUS"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="65.290402"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="AUT"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="62.609801"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="DEU"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="68.788304"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="GRC"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="72.558842"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="ISL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="77.426637"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="HUN"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="30.239628"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="63.147858"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="34.192594"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="KOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="32.211348"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2023"/>
+      <generic:Value id="COUNTRY" value="IRL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.553783"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="SWE"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="57.625094"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2025"/>
+      <generic:Value id="COUNTRY" value="CRI"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="74.089069"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="ITA"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="63.216566"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="IRL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="45.479266"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="NOR"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="67.614099"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="POL"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="23.651044"/>
+  </generic:Obs>
+  <generic:Obs>
+    <generic:ObsKey>
+      <generic:Value id="INDICATOR" value="INN_XFRMTOT"/>
+      <generic:Value id="TIME" value="2021"/>
+      <generic:Value id="COUNTRY" value="EST"/>
+    </generic:ObsKey>
+    <generic:ObsValue value="73.114069"/>
+  </generic:Obs>
 </DataSet>
 </message:MessageGroup>
