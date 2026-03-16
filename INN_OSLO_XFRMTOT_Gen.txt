@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version='1.0' encoding='utf-8'?>
 <DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
   <ns0:Series REF_AREA="EST" indicator="INN_OSLO_XFRMTOT">
     <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="66.157661" />
