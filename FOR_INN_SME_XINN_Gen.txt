@@ -1,0 +1,273 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="HRV" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="74.229692" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IND" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="40.418118" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.694292" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="79.563932" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="48.484848" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="61.116856" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="64.400272" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="73.257117" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.57043" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="28.397266" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="70.445895" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="81.888035" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="61.412919" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="75.413807" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="74.655172" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NZL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="8.3821541" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="33.03083" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="77.061101" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="MLT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="60.666667" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="51.332826" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="49.171056" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="65.065162" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="65.320065" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="16.99534" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="31.228011" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="70.288895" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="84.074941" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="63.552645" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="62.168203" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="68.313844" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="87.632509" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="62.450073" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="45.11321" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="75.651571" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="9.0454992" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="70.039841" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="80.948276" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="48.240547" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="57.993163" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="2.4435601" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="61.194324" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="63.261297" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="46.67171" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="52.733453" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="56.239687" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="70.240783" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="57.296862" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="73.737113" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="85.930736" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="63.891113" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="66.247485" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="76.564322" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="87.315089" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="67.343148" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="41.205875" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="62.380147" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="79.888657" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="55.29522" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="75.055421" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="50.143266" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.134262" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="73.90666" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="50.594305" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="49.060733" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="64.74914" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="62.783142" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="30.229554" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="28.397266" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.520957" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="73.115524" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="28.548322" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="78.720508" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="42.59541" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="FOR_INN_SME_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="74.034822" />
+  </ns0:Series>
+</DataSet>

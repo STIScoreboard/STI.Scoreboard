@@ -1,0 +1,255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="IRL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="28.542836" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="13.076738" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="32.590574" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.683374" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="2.5795564" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.222173" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="2.4557415" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="21.395349" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="7.6713253" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="11.536437" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="5.0968452" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.230674" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="40.662448" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="7.179696" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.066057" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="7.583254" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="18.239413" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="2.3343252" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="56.765376" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CYP" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="3.5010941" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="MLT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.7244259" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="0" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.589181" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.285914" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="14.509458" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="24.913409" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="3.8918919" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="8.9776574" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="16.491353" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="9.1711957" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="16.353591" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.6131741" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.880352" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="1.1571482" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="19.571949" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="20.580693" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.2517701" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="6.479847" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="10.70369" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="1.9655172" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="4.0733198" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.1177376" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="21.382124" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="9.2197615" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="31.059332" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="38.048116" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="11.692622" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="4.7188755" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.376243" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="19.797439" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="12.261202" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.211365" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="9.1600757" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="12.310952" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.6101142" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="1.5966387" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="5.2958694" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="18.4375" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="21.877486" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="32.779194" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="33.232672" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.6355731" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.90617" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="55.315168" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="7.6918778" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="19.350569" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="27.907402" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="0" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="TAX_CRED_RNDINN_XINN">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="7.8871948" />
+  </ns0:Series>
+</DataSet>
