@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="LVA" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="47.596154" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="76.64827" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="35.33669" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="35.342466" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="32.642025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="39.605059" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="14.448411" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="47.565543" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="51.568895" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="75.951087" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="55.076142" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="29.344978" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="36.046731" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="43.785633" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="37.03271" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="48.684211" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="48.259304" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="39.381953" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="51.420786" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="54.759678" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="33.189603" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="76.336087" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="25.863785" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="49.929279" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="36.428571" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="44.123314" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="ECO_POS_BIU_XECO_CON">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="52.593918" />
+  </ns0:Series>
+</DataSet>
