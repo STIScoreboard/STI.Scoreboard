@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="BEL" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="59.441997" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="68.415137" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="49.875939" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="85.480973" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="61.379735" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="90.216272" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="61.661281" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="61.064718" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="64.864865" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="54.298459" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="48.459726" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="76.143079" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="62.068966" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="62.397252" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="40.338348" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="46.979866" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="50.891211" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="68.991469" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="49.93895" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="61.455019" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="61.077844" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="75.721688" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="63.285126" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="68.444567" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="58.21133" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="76.546675" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="70.297655" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="73.468354" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="62.226291" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="65.840421" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="66.195191" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="64.201028" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="75.202885" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="56.346154" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="PRD_MANUF_XINN_OSLO">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="60.181964" />
+  </ns0:Series>
+</DataSet>

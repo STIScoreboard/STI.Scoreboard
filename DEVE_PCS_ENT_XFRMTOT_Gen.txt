@@ -1,0 +1,276 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="ISL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.268623" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="6.625779" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="3.5163417" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="29.921691" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="28.85265" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="11.750615" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="27.463594" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.8198636" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="9.5745874" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NZL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="21.796379" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="12.124484" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.18748" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="8.030764" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.256008" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.932537" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="22.860165" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="34.956545" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="20.081763" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NZL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="23.718245" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IND" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.237266" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="19.180986" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="29.776691" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="19.124166" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="34.117889" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="8.4447492" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="24.910512" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="13.799773" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="18.738526" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="19.451662" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="24.816739" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="4.7602421" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="14.587566" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="15.69136" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="36.398022" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.859678" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="21.189339" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="39.094985" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="29.205333" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="18.356941" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.900296" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="22.00593" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.690785" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="26.15246" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="17.006185" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="14.069487" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="28.455152" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="7.2409265" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="24.596754" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="24.956985" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="10.021708" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="14.908742" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.368007" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.815479" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="33.057937" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="22.020151" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.5237842" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="18.687136" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.5494701" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="19.016376" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="13.433169" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="16.734024" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="38.398852" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="16.825039" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="20.993433" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="55.772943" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="22.393335" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="16.221819" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="18.660433" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="25.105758" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="18.138746" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.9520111" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="30.345345" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="0" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.370522" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="24.096949" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.6671435" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="33.760479" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="10.521965" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="9.5745874" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.350517" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="17.40005" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="25.361481" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.396353" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.1004932" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="DEVE_PCS_ENT_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.327727" />
+  </ns0:Series>
+</DataSet>

@@ -1,0 +1,339 @@
+<?xml version='1.0' encoding='utf-8'?>
+<DataSet xmlns:ns0="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=OECD.STI.STP:DSD_INNOSTAT(1.0):compact">
+  <ns0:Series REF_AREA="DNK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.14175" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="11.195911" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.3940205" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.875747" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="22.025454" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CYP" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="37.715931" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IND" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.2740168" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.954756" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="14.738865" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="24.416605" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.6678606" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.647059" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.0796998" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="12.989691" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="10.548554" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="11.542752" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="7.8969595" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="12.027846" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.932076" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.451573" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.7517249" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="2.3690067" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="8.9676747" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="19.030647" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.155337" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="21.265941" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="27.537062" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="10.939177" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="14.358773" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="10.059465" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.425164" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="5.2006511" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.820408" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="8.9370248" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.640694" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="4.9464363" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="USA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="9.1248549" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.273865" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="9.4720145" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="9.1923156" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.986667" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="14.574017" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="7.6047412" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="JPN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="7.944315" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LUX" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="7.9941148" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NLD" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.008667" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.4057108" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="16.594144" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.8519055" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.830932" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="5.4095736" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="6.8936005" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="17.571601" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="6.0244534" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="4.2319957" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="12.969825" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.1826132" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ZAF" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="9.2280051" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LTU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="12.642081" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="12.017873" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.595641" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="20.071259" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CAN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="21.711569" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="5.1563349" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CZE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="17.655474" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DNK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="9.7639172" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="13.578647" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.484907" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FRA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.458588" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="IRL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="8.7192817" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="LVA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="9.9687081" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.508628" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="25.690691" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="11.195652" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="9.6738634" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.735832" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVK" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="9.8224264" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SVN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="18.041447" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ESP" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.3718773" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="5.849532" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="TUR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="15.927365" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GBR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.3149094" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BGR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.5130059" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HRV" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="18.360048" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ROU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="2.8276217" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="7.0391955" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.974337" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="17.179773" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="USA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.39345" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="DEU" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="12.924379" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BEL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="15.576989" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="GRC" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="30.233994" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ISL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="21.783296" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="MLT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="13.304721" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="NOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="18.581907" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUS" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.145167" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="AUT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="20.192255" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="HUN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="6.6881259" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="17.071396" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.7641702" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.5584537" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="BRA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CHN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="FIN" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2023" OBS_VALUE="14.88507" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="SWE" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="15.275333" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="CRI" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" OBS_VALUE="2.4869867" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ARG" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2025" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="KOR" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.5584537" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="ITA" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="20.679492" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="POL" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="6.8914389" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="PRT" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="13.772311" />
+  </ns0:Series>
+  <ns0:Series REF_AREA="EST" indicator="LOG_XFRMTOT">
+    <ns0:Obs REPORT_YEAR="2021" OBS_VALUE="16.575307" />
+  </ns0:Series>
+</DataSet>
